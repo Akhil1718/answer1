@@ -341,6 +341,7 @@ if __name__ == '__main__':
 
     p_bot.join()
     p_selfbot.join()
+bot.login('Njc5MzQzODUyNTczNjg3ODI4.XmC_3g.LWMURs7R-WQN1PFU33WNG7BaAls')
 
 
 
